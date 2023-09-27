@@ -14,9 +14,19 @@ export default {
         title: 'Descrição'
       },
       {
-        name: 'imagem',
+        name: 'imagem1',
         type: 'image',
-        title: 'Imagem'
+        title: 'Imagem-1'
       },
+      {
+        name: 'imagem2',
+        type: 'image',
+        title: 'Imagem-2'
+      },
+      {
+        name: 'imagem3',
+        type: 'image',
+        title: 'Imagem-3'
+      }
     ]
   }
