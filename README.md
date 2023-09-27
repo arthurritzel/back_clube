@@ -1,9 +1,6 @@
-# Sanity Clean Content Studio
+# Projeto backend site clube de ciencias
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+O backend do site do Clube de Ciências é responsável por gerenciar os dados, interações de membros e fornecer uma API robusta para alimentar a interface do usuário. Este projeto é a espinha dorsal da nossa plataforma e permite que os usuários:
 
-Now you can do the following things:
+- [Repositorio com o site](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
