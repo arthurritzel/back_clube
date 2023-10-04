@@ -1,8 +1,13 @@
 export default{
-    name: 'pre_clube',
+    name: 'desc_clubes',
     type: 'document',
-    title: 'Pré Clube',
+    title: 'Descrição clubes',
     fields: [
+        {
+          name: 'clube',
+          type: 'string',
+          title: 'Nome do clube'
+        },
         {
             name: 'descricao',
             type: 'string',
