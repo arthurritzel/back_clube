@@ -25,7 +25,7 @@ export default {
       },
       {
         name: 'data',
-        type: 'string',
+        type: 'date',
         title: 'Data publicação'
       }
     ]
