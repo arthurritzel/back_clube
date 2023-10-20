@@ -11,5 +11,9 @@ import desc_clubes from './desc_clubes'
 import laboratorios from './laboratorios'
 
 import dia_desc from './dia_desc'
+import oque from './oque'
+import como_surgiu from './como_surgiu'
 
-export const schemaTypes = [noticias, metodo, certificado, premios, lista_premios, equipe, duvidas, horarios,laboratorios, dia_desc, desc_clubes]
+
+
+export const schemaTypes = [noticias, metodo, certificado, premios, lista_premios, equipe, duvidas, horarios,laboratorios, dia_desc, desc_clubes, oque, como_surgiu]
