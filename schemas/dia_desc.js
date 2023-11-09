@@ -1,7 +1,7 @@
 export default {
     name: 'dia_desc',
     type: 'document',
-    title: 'Dia_desc',
+    title: '**Dia_desc',
     fields: [
       {
         name: 'dia',

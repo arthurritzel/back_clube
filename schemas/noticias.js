@@ -1,7 +1,7 @@
 export default {
     name: 'noticias',
     type: 'document',
-    title: 'Noticias',
+    title: 'Notícias',
     fields: [
       {
         name: 'titulo',

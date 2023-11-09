@@ -1,7 +1,7 @@
 export default {
     name: 'metodo',
     type: 'document',
-    title: 'Metodo',
+    title: 'Método',
     fields: [
       {
         name: 'descricao',

@@ -3,7 +3,7 @@ import dia_desc from "./dia_desc";
 export default{
     name: 'horarios',
     type: 'document',
-    title: 'Horários',
+    title: '**Horários',
     fields: [
         {
             name:'nomeHorario',

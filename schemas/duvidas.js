@@ -1,7 +1,7 @@
 export default {
     name: 'duvidas',
     type: 'document',
-    title: 'Duvidas',
+    title: 'Dúvidas',
     fields: [
       {
         name: 'Pergunta',

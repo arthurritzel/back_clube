@@ -1,7 +1,7 @@
 export default {
     name: 'premios',
     type: 'document',
-    title: 'Premios',
+    title: 'Prêmios',
     fields: [
       {
         name: 'premio',
